@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.v(TAG, "On Create!");
-        User user = new User("Reiner", "Student", 001, false );
+        UserTest user = new UserTest("Reiner", "Student", 001, false );
         Button button = findViewById(R.id.button);
 
         button.setOnClickListener(new View.OnClickListener() {

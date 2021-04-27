@@ -1,6 +1,6 @@
 package sg.edu.np.madpractical;
 
-public class User {
+public class UserTest {
     private String name;
     private String description;
     private int id;
@@ -39,9 +39,9 @@ public class User {
         this.followed = followed;
     }
 
-    public User() {}
+    public UserTest() {}
 
-    public User(String name, String description, int id, boolean followed) {
+    public UserTest(String name, String description, int id, boolean followed) {
         this.name = name;
         this.description = description;
         this.id = id;
