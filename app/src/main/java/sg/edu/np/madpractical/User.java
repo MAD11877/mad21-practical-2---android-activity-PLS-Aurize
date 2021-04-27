@@ -1,4 +1,4 @@
-package sg.edu.np.week2practical;
+package sg.edu.np.madpractical;
 
 public class User {
     private String name;

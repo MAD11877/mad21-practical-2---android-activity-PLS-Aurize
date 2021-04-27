@@ -1,4 +1,4 @@
-package sg.edu.np.week2practical;
+package sg.edu.np.madpractical;
 
 import androidx.appcompat.app.AppCompatActivity;
 
